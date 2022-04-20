@@ -1,0 +1,80 @@
+LOCUS       MG718544                 709 bp    DNA     linear   PLN 01-OCT-2018
+DEFINITION  Ficus luschnathiana isolate PEIC036.1 ribulose-1,5-bisphosphate
+            carboxylase/oxygenase large subunit (rbcL) gene, partial cds;
+            chloroplast.
+ACCESSION   MG718544
+VERSION     MG718544.1  GI:1330106828
+KEYWORDS    .
+SOURCE      chloroplast Ficus luschnathiana
+  ORGANISM  Ficus luschnathiana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Moraceae; Ficus.
+REFERENCE   1  (bases 1 to 709)
+  AUTHORS   Lima,R.A., Oliveira,A.A., Colletta,G.D., Flores,T.B., Coelho,R.L.,
+            Dias,P., Frey,G.P., Iribar,A., Rodrigues,R.R., Souza,V.C. and
+            Chave,J.
+  TITLE     Can plant DNA barcoding be implemented in species-rich tropical
+            regions? A perspective from Sao Paulo State, Brazil
+  JOURNAL   Genet. Mol. Biol. 41 (3), 661-670 (2018)
+   PUBMED   30235400
+REFERENCE   2  (bases 1 to 709)
+  AUTHORS   Lima,R.A.F., Iribar,A. and Chave,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-2017) Departamento de Ecologia, Universidade de
+            Sao Paulo, Rua do Matao, trav. 14, 321, Sao Paulo, SP 05508-090,
+            Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..709
+                     /organism="Ficus luschnathiana"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /isolate="PEIC036.1"
+                     /specimen_voucher="ESA:109269"
+                     /db_xref="taxon:309288"
+                     /tissue_type="leaf"
+                     /country="Brazil: Parcela permanente 10.24ha, Parque
+                     Estadual da Ilha do Cardoso, Cananeia county, Sao Paulo
+                     State"
+                     /lat_lon="25.076861 S 47.934047 W"
+                     /altitude="6 m"
+                     /collection_date="Oct-2011"
+                     /collected_by="G. Frey & R.A.F. Lima"
+                     /PCR_primers="fwd_name: 1F, fwd_seq: atgtcaccacaaacagaaac,
+                     rev_name: 724R, rev_seq: tcgcatgtacctgcagtagc"
+                     /note="leaf samples taken from the same morphospecies of
+                     ESA vouchers collected inside the plot (individual no.
+                     3224; R.A.F Lima 803)"
+     gene            <1..>709
+                     /gene="rbcL"
+     CDS             <1..>709
+                     /gene="rbcL"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="AUQ34797.1"
+                     /db_xref="GI:1330106829"
+                     /translation="KASVGFKAGVKDYKLTYYTPEYEVKDSDILAAFRVTPQPGVPPE
+                     EAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYGIEPVAGEENQYIAYVAYPLDLFE
+                     EGSVTNLFTSIVGNVFGFKALRALRLEDLRIPPSYSKTFQGPPHGIQVERDKLNKYGR
+                     PLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKDDENVNSQPFMRWRDRFLFCVEAI
+                     YKAQAETGEIKGHYLNAT"
+ORIGIN      
+        1 ctaaagcaag tgttggattc aaagctggtg ttaaagatta taaattgact tattacactc
+       61 ctgaatatga agtcaaagat agtgatatct tggcagcatt tcgagtaact cctcaacctg
+      121 gagttcctcc tgaagaagca ggggcagcgg tagctgctga atcttctact ggtacatgga
+      181 caactgtatg gactgacgga cttaccagtc ttgatcgcta caaaggtcga tgctacggca
+      241 tcgagcccgt tgctggagaa gaaaatcaat atattgctta tgtagcttac cctttagacc
+      301 tttttgaaga gggttctgtt actaatctgt ttacttccat tgtgggtaat gtatttgggt
+      361 tcaaggccct gcgtgcgcta cgtctggaag atttgcgaat ccctccttct tattctaaaa
+      421 ctttccaagg accacctcat ggtatccaag ttgagagaga taaattgaac aagtatggcc
+      481 gccccctatt gggatgtact attaaaccta aattggggtt atccgctaag aattacggta
+      541 gagcagttta tgaatgtctt cgcggtgggc ttgattttac caaagatgat gagaacgtga
+      601 attctcaacc atttatgcgt tggagagacc gtttcttatt ttgtgtcgaa gcaatttata
+      661 aagcacaagc tgaaacaggt gaaatcaaag gacattactt gaatgctac
+//
+
